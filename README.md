@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I dreamed a lot and I'll write it down when I wake up.**
 
-- My portfolio <a herf="https://phoebejchang.github.io/#/>here</a>
+- My portfolio https://phoebejchang.github.io/#/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
